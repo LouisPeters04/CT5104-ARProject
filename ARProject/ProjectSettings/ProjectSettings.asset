@@ -947,7 +947,6 @@ PlayerSettings:
   metroSplashScreenUseBackgroundColor: 1
   platformCapabilities:
     WindowsStoreApps:
-      CodeGeneration: False
       OfflineMapsManagement: False
       HumanInterfaceDevice: False
       Location: False
@@ -959,6 +958,7 @@ PlayerSettings:
       PrivateNetworkClientServer: False
       InternetClientServer: False
       VideosLibrary: False
+      BackgroundMediaPlayback: False
       Objects3D: False
       RemoteSystem: False
       BlockedChatMessages: False
@@ -980,9 +980,9 @@ PlayerSettings:
       PointOfService: False
       RecordedCallsFolder: False
       Contacts: False
-      Proximity: False
       InternetClient: True
-      BackgroundMediaPlayback: False
+      Proximity: False
+      CodeGeneration: False
       EnterpriseAuthentication: False
   metroTargetDeviceFamilies:
     Desktop: False
@@ -1047,7 +1047,7 @@ PlayerSettings:
   cloudProjectId: 91893b15-6fcb-4e76-97e1-8aaae6c1d02e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: ARProject 2024-06-02_11-51-14
   organizationId: louispeters004
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
