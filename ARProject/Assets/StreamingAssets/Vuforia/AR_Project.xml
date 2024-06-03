@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="venus_poster" size="0.100000 0.141876" />
+    <ImageTarget name="uranus_poster" size="0.100000 0.141876" />
+    <ImageTarget name="saturn_poster" size="0.100000 0.141876" />
+    <ImageTarget name="neptune_poster" size="0.100000 0.141876" />
+    <ImageTarget name="mercury_poster" size="0.100000 0.141876" />
+    <ImageTarget name="mars_poster" size="0.100000 0.141876" />
+    <ImageTarget name="jupiter_poster" size="0.100000 0.141876" />
+    <ImageTarget name="earth_poster" size="0.100000 0.141876" />
+  </Tracking>
+</QCARConfig>

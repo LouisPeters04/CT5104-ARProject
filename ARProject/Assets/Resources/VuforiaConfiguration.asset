@@ -13,18 +13,18 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: 
-    ufoLicenseKey: QVhiM0Y1Ly8vLy8vQUFBQUtPbnFIeHJFSGs1N3VrMlg4U050eVBzK2pkOFZxMDhrazlwYjBsYS9aZUIxQlV1ckZWcWt0ZllSQWpnT2tIRlY2VzdOMDRTRjNYRUhmbTF5L1BnYlB4eWdHWEF6RUNheXowc3dyNVNYa2ozdERuRjhka1FpOHRscHdkMDcrcEJEY1FjTjNJcUM1bEgwOTYzQkdZdjRsQStRb0hSQU9nRGthelp5TlY0WHVwWU9EaE05NWw5bXAzbnBDMjM5MWZBWXBFdEdiL2loTDNab3N4b25ZblhjK1JtSS9wLzRoTDIwVGhmTXR6WFJNYkpUTXZLZzJoQ0N0TEJXNEptZ0pSOUtSdStzQWM3QjVNOWFFMGVHQ1dUT1VRSUUweEpiZC9ZL2cvS29iNDhBRXdQOGFwbWR5NmRWU0FHU2psVzRZY2FEU2Zud3J1ZHhucVNmSUZiajNTUnIzM0lKVlFIaW1rL0oyOGNFeDdyekcySXg=
+    vuforiaLicenseKey: AXdJdsD/////AAABmT/TbJKGjkFYm7+ytlWxmuk6q8Qr4uChJpx2QNMHxM3TutqUgT5hwrSJeeKRqvoGPo4mQkjtNsPo5Jy3gr5ig+IYDXmXrPxa88ysAWTjHmkQaycyYzi2fzmzeqRqIr9lUbrkYGp8bg1jYs9Sq4eLbbPH+ry3DYnTM3dbRfQLtKcjg9nHXRItIPbuVr207g66vOw8nzeocKIqzHED/07xeaDSHd2r+2EV5Uux8N3r10m8CIPl2PmXZ0voh6qM/4vFoNRgZQa+tzD/C0ZoGHFGdU3Y/lhhnBL4L5knl7iAxvU0ca4D9JEOSb4Hji68xfXDIsU3y6Xos0/nY5xHOWhpnEaM+BTUVjtZhh49pFcCFWTK
+    ufoLicenseKey: QVFMcnNiRC8vLy8vQUFBQUtMZnRQSTlDVlVuOXNaTzVHRVZ1a2JNRmtXUTdyNE1YU2tyOU5CVEdEMXZnQXN2a0dZTngxdUdpbyttK0RjaStnb2lHeHRDcENZaEhqN1FjdlUrbjZkVTNpZk9MMEpDaXZnSXhKNlVGVnozNGp4cm4zeGhZNlhnTHRVZjJkV00ra3Q4SWVTa3Nxd2hBMHZoSjZVcFo1VkdRQWw1SnpRZ2FreWNpcS9FRGpTRGVHZHJXWFZQemxjalJmL2RxcEt4bGo4aHFreHBET0t6Q0g1Q3B5emtibWt1eEVZYlNkTmlQR1VNV2toT1JaSlF3U2FWR0podnY3VG42NDRXNnlNV2xHS05RSGU1aUg1UG1VUUNqRC9GdEsxaS9wMGtYK3d5M0lSNHB4K3lNdlhpREYyMkZqS1M4OXl1Ty9TM1p4M0lObDJVZ2paYmRxZ25aQnMxMUEzYlRTYXdIdkt2d2o3WGNsRjhGNHk5blE4Yno=
     delayedInitialization: 0
     cameraFocusModeSetting: 2
     cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 1
+    maxSimultaneousImageTargets: 8
     virtualSceneScaleFactor: 1
     modelTargetRecoWhileExtendedTracked: 1
     shareRecordingsInITunes: 0
     logLevel: 0
-    version: 10.0.2
-    eulaAcceptedVersions: '{"Values":[""]}'
+    version: 10.22.5
+    eulaAcceptedVersions: '{"Values":["","0.0","10.22"]}'
   database:
     disableModelExtraction: 0
   shaders:
